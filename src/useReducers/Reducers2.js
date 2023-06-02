@@ -1,8 +1,6 @@
 import React, { useState, useReducer } from "react";
 import Student from "../component/Student";
 
-
-
 const ACTION_TYPES = {
     addStudent: 'add-student',
     deleteStudent: 'delete-student',
