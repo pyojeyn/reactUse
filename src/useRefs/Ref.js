@@ -1,7 +1,7 @@
 import React, { useState, useRef } from "react";
 
 const Ref = () => {
-
+    // 비쥬코 테스트
     const [renderer, setRenderer] = useState(0);
 
     // 컴포넌트 렌더링 되도 계속 값 유지. 
